@@ -8,5 +8,13 @@ for i in range(4):
     left(90)
     forward(150)
 
+penup()
+goto(-200,0)
+pendown()
+
+shape('square')
+for i in range(4):
+    left(90)
+    forward(150)
 
 done()

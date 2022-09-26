@@ -1,0 +1,9 @@
+import turtle
+
+import turtle
+tur=turtle.Turtle()
+for length in [600,550,500,450,400,350,300,250,200,150 ,]:
+
+      tur.forward (length)
+
+      tur.left (90)
